@@ -1,1 +1,6 @@
 12/21/23: Lua is selected as January's language of the month.
+
+1/1/24: Blog post published: (Gearing up for Lua)[https://dev.to/jd2r/gearing-up-for-lua-3pem]
+1/5/24: Blog post published: (The Lua Tutorial)[https://dev.to/jd2r/the-lua-tutorial-544b]
+1/5/24: Blog post published: (Lua Quick Reference)[https://dev.to/jd2r/lua-quick-reference-4ij0]
+1/25/24: Code published (WordleClone, GuessingGame, PasswordMaker)
